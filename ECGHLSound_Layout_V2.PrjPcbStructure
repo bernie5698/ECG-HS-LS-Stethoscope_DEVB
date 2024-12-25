@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Audio.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=ECG.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=HeartSound_LungSound.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=Module.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Audio.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=1
